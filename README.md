@@ -2,7 +2,7 @@
 
 
 ## Overview:
-This repo is a conglomeration of algorithms for competitive programming, data structure, sorting and related areas. It currently features C/C++, Python and some Java implementations. It contains many advanced algorithms like greedy, graph traversal algorithms, including Dijkstra's algorithm and Floyd Warshal algorithm, and data structures like queues, stacks, and binary search trees. Contributions are highly prized.
+This repo is a conglomeration of algorithms for competitive programming, data structure, sorting and related areas. It currently features C/C++, Python and some Java implementations. It contains many advanced algorithms like greedy, graph traversal algorithms, including Dijkstra's algorithm and Floyd Warshal algorithm, and data structures like queues, stacks, and binary search trees.
 
 Use this repo to study or review your knowledge and don't forget to star and collaborate!
 
@@ -53,5 +53,5 @@ After that, find the folder that fits the category of your code and submit a PR.
 *Star* this repo if the information here is useful to you.
 
 ### Please have a look at these :
- - [CONTRIBUTION.md](https://github.com/srbcheema1/Algo_Ds/blob/master/CONTRIBUTION.md) for quick quidelines
+ - [CONTRIBUTING.md](https://github.com/srbcheema1/Algo_Ds/blob/master/CONTRIBUTING.md) for quick quidelines
  - [STRUCTURE.md](https://github.com/srbcheema1/Algo_Ds/blob/master/STRUCTURE.md) for structure of directories
